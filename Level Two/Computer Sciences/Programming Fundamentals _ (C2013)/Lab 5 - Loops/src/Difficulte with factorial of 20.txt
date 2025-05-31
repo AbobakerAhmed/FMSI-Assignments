@@ -1,0 +1,4 @@
+What difficulty might prevent you from
+calculating the factorial of 20?
+
+Nothing, I have just to make the xFactorial as long.
